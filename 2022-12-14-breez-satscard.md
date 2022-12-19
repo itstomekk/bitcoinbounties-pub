@@ -4,7 +4,7 @@ title:  "SATSCARD integration on Breez wallet"
 date:   2022-12-14 01:01:01 -0500
 categories: code
 author: Breez
-value: 1
+value: 0.05
 currency: BTC
 contact: https://doc.breez.technology/Bounties.html#satscard-integration
 status: New
