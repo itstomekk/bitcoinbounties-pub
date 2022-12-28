@@ -7,7 +7,7 @@ author: bolt.fun
 value: 0.5
 currency: BTC
 contact: https://twitter.com/johnsBeharry
-status: New
+status: claimed
 ---
 
 > In partnership with ABC 22, this track seeks to encourage makers to build solutions that solve African challenges & increase bitcoin adoption by Africans.
