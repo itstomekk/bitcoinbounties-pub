@@ -7,7 +7,7 @@ author: bolt.fun
 value: 0.5
 currency: BTC
 contact: https://twitter.com/johnsBeharry
-status: New
+status: claimed
 ---
 
 > Focusing on scalability and product market fit, this track allows makers to let their imaginations run wild with either lightning or on-chain technology.

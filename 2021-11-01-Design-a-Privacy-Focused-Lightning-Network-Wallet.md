@@ -7,7 +7,7 @@ author: Wasabi Wallet Dan Gershony
 value: 1.11
 currency: BTC
 contact: rafe@zksnacks.com
-status: New
+status: claimed
 ---
 
 **November 2021**

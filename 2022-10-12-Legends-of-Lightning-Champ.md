@@ -7,7 +7,7 @@ author: bolt.fun
 value: 2
 currency: BTC
 contact: https://twitter.com/johnsBeharry
-status: New
+status: claimed
 ---
 
 > Grand Champion - The Legend of Lightning will be the best in show, la créme de la créme. Every project entered will be eligible for this award, no matter what track they choose.
@@ -18,4 +18,3 @@ none
 
 #### Resources
 [bolt.fun](https://makers.bolt.fun/)
-
