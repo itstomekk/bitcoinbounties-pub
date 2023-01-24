@@ -7,7 +7,7 @@ author: https://hrf.org
 value: 1
 currency: BTC
 contact: https://hrf.org
-status: New
+status: claimed
 ---
 
 **January 2022, expires December 2022**
