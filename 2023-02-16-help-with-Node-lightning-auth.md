@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "help with Node.js server with passport-lnurl-auth"
+title:  "Help with Node.js server with passport-lnurl-auth"
 date:   2023-02-16 01:01:01 -0500
 categories: code lightning auth
 author: j
