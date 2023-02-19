@@ -7,11 +7,12 @@ author: j
 value: 0.004
 currency: BTC
 contact: https://twitter.com/JD67830120
-status: New
+status: Claimed
 ---
 
 **Expires March 1 2023**
 
 > I have a Node.js server with passport-lnurl-auth running and working properly locally to do lightning auth, but when i deploy it doesn't work anymore. I need someone to help me figure out how to get the deployed version working with my React app
+(I figured this out myself, https://github.com/Jared-Dahlke/simple-next-express-typescript )
 
 
